@@ -1,0 +1,5 @@
+<function DeltaGenerator.__getattr__.<locals>.wrapper at 0x7f686c5909d8> <function DeltaGenerator.__getattr__.<locals>.wrapper at 0x7f686c5909d8>
+pandas 1.0.3
+seaborn 0.11.0
+streamlit 0.74.1
+<function DeltaGenerator.__getattr__.<locals>.wrapper at 0x7f686c61fae8> <function DeltaGenerator.__getattr__.<locals>.wrapper at 0x7f686c61fae8>
