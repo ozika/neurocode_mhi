@@ -54,7 +54,7 @@ if pltype == "Wavy":
     g.map(sns.kdeplot, "score", clip_on=False, color="k", lw=2, bw_adjust=.5)
     g.map(plt.axhline, y=0, lw=2, clip_on=False)
     g.map(label, "score")
-    g.fig.subplots_adjust(hspace=-.35)
+    g.fig.subplots_adjust(hspace=-.55)
     g.set_titles("")
     g.set(yticks=[])
     g.despine(bottom=True, left=True)
